@@ -1,2 +1,6 @@
 # Write your solution here
-Time.now
+if true
+  puts "Even!"
+else 
+  puts "Odd!"
+end
